@@ -45,7 +45,7 @@ My research focuses on LLM inference acceleration, foundation models, and embodi
 
 - **2026-09-02** — MetaNet-MoE was accepted to Findings of EMNLP 2026.
 
-## Selected Research
+## Selected Research(only firsrt author)
 
 ### [Meta-Learning Where to Allocate Experts: Task-Conditioned Layer-Wise Compression for MoEs](https://openreview.net/forum?id=MD6lEVNSe6)
 
