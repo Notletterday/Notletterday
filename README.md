@@ -1,16 +1,50 @@
-## Hi there 👋
+<!--
+Profile banner (enable after adding the image files):
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.webp">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.webp">
+  <img alt="Notletterday research profile banner" src="./assets/header-light.webp" width="100%">
+</picture>
+-->
+
+<div align="center">
+
+# Notletterday
+
+Research · Engineering · Open Source
+
+</div>
+
+## About
+
+I work on research-oriented projects and enjoy turning ideas into reproducible systems.
+
+This profile is a growing record of my research, experiments, and selected projects.
 
 <!--
-**Notletterday/Notletterday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Add specific topics when ready:
 
-Here are some ideas to get you started:
+## Research Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+`Research Topic A` · `Research Topic B` · `Research Topic C`
+-->
+
+<!--
+Add one to three representative works when ready:
+
+## Selected Work
+
+- **Project or Paper Title** — A concise description of the problem and contribution.
+  [Paper](#) · [Code](#) · [Data](#)
+-->
+
+<!--
+Add only the links you actively maintain:
+
+<div align="center">
+
+[Homepage](#) · [Google Scholar](#) · [ORCID](#) · [Email](mailto:you@example.com)
+
+</div>
 -->
