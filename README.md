@@ -43,7 +43,7 @@ My research focuses on LLM inference acceleration, foundation models, and embodi
 
 ## News
 
-- **2026-09-02** — MetaNet-MoE was accepted to Findings of EMNLP 2026.
+- **2026-09-02** — MetaNet-MoE was accepted of EMNLP 2026.
 
 ## Selected Research(only firsrt author)
 
