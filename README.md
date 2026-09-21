@@ -20,7 +20,7 @@ PhD Student · Beijing, China
 
 <sub>ML Systems · Foundation Models · World Action Models</sub>
 
-[Homepage](https://openreview.net/profile?id=%7EWang_Rongfeng1) · [ORCID](https://orcid.org/0009-0008-6235-9517) · [Email](mailto:wangrongfeng24@mails.ucas.ac.cn)
+[Homepage](https://openreview.net/profile?id=%7EWang_Rongfeng1) · [ORCID](https://orcid.org/0009-0008-6235-9517) · [Zhihu](https://www.zhihu.com/people/5-25-5-33) · [Email](mailto:wangrongfeng24@mails.ucas.ac.cn)
 
 </div>
 
